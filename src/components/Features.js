@@ -27,10 +27,12 @@ export default class Features extends React.Component {
                         backgroundSize: "cover"
                     }
                 }>
+                    <div style={{backgroundColor: 'rgba(0, 0, 0, 0.3)'}}>
                   <section key={feature_idx}>
                     <h3>{_.get(feature, 'title')}</h3>
                     {markdownify(_.get(feature, 'text'))}
                   </section>
+                  </div>
                 </div>
               )
             )}
