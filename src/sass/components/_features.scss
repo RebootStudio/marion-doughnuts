@@ -12,8 +12,9 @@
 		border-radius: _size(border-radius);
 		border: solid 1px _palette(border);
 		background: _palette(border-bg);
+		color: whitesmoke;
 		margin: 0 0 _size(element-margin) 0;
-
+		
 		section {
 			@include padding(3em, 3em, (0.5em, 0, 0, 4em));
 			width: 50%;
