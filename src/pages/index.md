@@ -41,8 +41,13 @@ sections:
   background_style: style3
   features_list:
   - title: Donuts
+    text: Our donuts are made at our bakery overnight so that they are always fresh.
+    image: donut.png
+  - title: Cookies
+    text: Handmade cookies of all types.
+    image: cookies.png
+  - title: Cakes
     text: Our donuts are made fresh here at our bakery overnight so that you
-    icon: fa-code
     image: donut.png
   - title: Aliquam sed nullam
     text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
