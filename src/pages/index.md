@@ -36,36 +36,39 @@ sections:
 - type: features
   template: features
   title: Menu
-  subtitle: Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis
-    mauris, eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget hendrerit
-    bibendum, urna est aliquam sem, sit amet imperdiet est velit quis lorem.
+  subtitle: All items are made to order and bulk orders require advance notice.
   section_id: two
   background_style: style3
   features_list:
   - title: Donuts
-    text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
-      turpis mauris, sed ultricies erat dapibus.
+    text: Our donuts are made fresh here at our bakery overnight so that you
     icon: fa-code
+    image: donut.jpg
   - title: Aliquam sed nullam
     text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
       turpis mauris, sed ultricies erat dapibus.
     icon: fa-lock
+    image: ''
   - title: Sed erat ullam corper
     text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
       turpis mauris, sed ultricies erat dapibus.
     icon: fa-cog
+    image: ''
   - title: Veroeros quis lorem
     text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
       turpis mauris, sed ultricies erat dapibus.
     icon: fa-desktop
+    image: ''
   - title: Urna quis bibendum
     text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
       turpis mauris, sed ultricies erat dapibus.
     icon: fa-chain
+    image: ''
   - title: Aliquam urna dapibus
     text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
       turpis mauris, sed ultricies erat dapibus.
     icon: fa-diamond
+    image: ''
   actions:
   - label: Learn more
     url: "/generic"
