@@ -6,7 +6,7 @@ home_spotlights:
   weight: 1
   excerpt: Locally owned and operated for 20 years.
   home_img:
-    path: images/pic01.jpg
+    path: "/images/staff.jpg"
     data_position: center center
     url: "#"
 template: page
