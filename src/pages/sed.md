@@ -1,5 +1,5 @@
 ---
-title: Andrew's Pastries
+title: Our Story
 content_img_path: "/images/staff.jpg"
 home_spotlights:
   enabled: true
