@@ -43,7 +43,7 @@ sections:
   - title: Donuts
     text: Our donuts are made fresh here at our bakery overnight so that you
     icon: fa-code
-    image: donut.jpg
+    image: donut.png
   - title: Aliquam sed nullam
     text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
       turpis mauris, sed ultricies erat dapibus.
