@@ -29,7 +29,7 @@ sections:
   component: Intro
 - type: spotlights
   template: spotlights
-  title: Spotlights Section
+  title: About Us
   section_id: one
   background_style: style2
   component: Spotlights
