@@ -45,10 +45,10 @@ sections:
     image: donut.png
   - title: Cookies
     text: Handmade cookies of all types.
-    image: cookies.png
+    image: cookies.jpg
   - title: Cakes
-    text: Our donuts are made fresh here at our bakery overnight so that you
-    image: donut.png
+    text: Cakes for all occasions and seasons
+    image: cakes.jpg
   - title: Aliquam sed nullam
     text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
       turpis mauris, sed ultricies erat dapibus.
