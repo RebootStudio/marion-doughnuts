@@ -58,6 +58,5 @@ fields:
     required: true
 pages:
 - src/pages/andrew.md
-- src/pages/generic.md
 - src/pages/our-story.md
 - src/pages/ultricies.md
