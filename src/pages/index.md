@@ -59,9 +59,9 @@ sections:
 - type: contact
   template: contact
   title: Get in touch
-  text: Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris,
-    eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget hendrerit bibendum,
-    urna est aliquam sem, sit amet imperdiet est velit quis lorem.
+  text: Please feel free to leave us feedback below or visit our Facebook or Instagram.  Please
+    do not use the form below to place orders, calling us is ALWAYS the way to place
+    orders.
   section_id: three
   background_style: style1
   contact_list:
