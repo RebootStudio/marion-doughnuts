@@ -49,31 +49,7 @@ sections:
   - title: Cakes
     text: Cakes for all occasions and seasons
     image: cakes.jpg
-  - title: Aliquam sed nullam
-    text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
-      turpis mauris, sed ultricies erat dapibus.
-    icon: fa-lock
-    image: ''
-  - title: Sed erat ullam corper
-    text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
-      turpis mauris, sed ultricies erat dapibus.
-    icon: fa-cog
-    image: ''
-  - title: Veroeros quis lorem
-    text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
-      turpis mauris, sed ultricies erat dapibus.
-    icon: fa-desktop
-    image: ''
-  - title: Urna quis bibendum
-    text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
-      turpis mauris, sed ultricies erat dapibus.
-    icon: fa-chain
-    image: ''
-  - title: Aliquam urna dapibus
-    text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
-      turpis mauris, sed ultricies erat dapibus.
-    icon: fa-diamond
-    image: ''
+  
   actions:
   - label: Learn more
     url: "/generic"
@@ -91,34 +67,24 @@ sections:
   contact_list:
   - title: Address
     text: |-
-      12345 Somewhere Road #654
-      Nashville, TN 00000-0000
-      USA
+      1282 Delaware Ave,
+      Marion, Ohio 43302
     url: ''
   - title: Email
-    text: user@Hyperspace.tld
-    url: "#"
+    text: andrew@andrewspastries.us
+    url: "mailto:andrew@andrewspastries.us"
   - title: Phone
-    text: "(000) 000-0000"
-    url: ''
+    text: "(740) 387-3830"
+    url: 'callto:(740)3873830'
   social:
     title: Social
     social_icons:
-    - title: Twitter
-      icon: fa-twitter
-      url: "#"
     - title: Facebook
       icon: fa-facebook
-      url: "#"
-    - title: GitHub
-      icon: fa-github
-      url: "#"
+      url: "https://www.facebook.com/andrewspastries/"
     - title: Instagram
       icon: fa-instagram
-      url: "#"
-    - title: LinkedIn
-      icon: fa-linkedin
-      url: "#"
+      url: "https://www.instagram.com/andrews_pastries/"
   component: Contact
 menus:
   main:
