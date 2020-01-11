@@ -55,10 +55,6 @@ fields:
       wysiwyg: true
       schema:
         format: markdown
-  - type: text
-    name: icon
-    label: Feature Icon
-    description: Font Awesome icon
   config:
     labelField: title
 - type: field_group_list
