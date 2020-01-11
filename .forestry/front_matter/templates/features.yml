@@ -55,6 +55,12 @@ fields:
       wysiwyg: true
       schema:
         format: markdown
+  - name: image
+    type: text
+    config:
+      required: false
+    label: image
+    description: Background Image Picker
   config:
     labelField: title
 - type: field_group_list
